@@ -1,0 +1,14 @@
+name: jeremy-miner
+version: 1.0.0
+type: minds
+description: "Mente cognitiva de Jeremy Miner — metodologia NEPQ, vendas baseadas em ciencia comportamental, e coaching de vendas"
+price: 49.9
+license: MIT
+entry: SKILL.md
+tags:
+  - sales
+  - nepq
+  - behavioral-science
+  - sales-coaching
+  - questioning-methodology
+  - cognitive-mind

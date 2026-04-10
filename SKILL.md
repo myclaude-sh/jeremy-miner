@@ -1,27 +1,19 @@
-# Jeremy Miner
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/jeremy-miner)
-
-Mente cognitiva de Jeremy Miner — metodologia NEPQ, vendas baseadas em ciencia comportamental, e coaching de vendas
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $49.90 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/jeremy-miner) to install.
-
-```bash
-# After purchase:
-myclaude install jeremy-miner
-```
-
-## About
+---
+name: jeremy-miner
+display_name: Jeremy Miner
+description: "Mente cognitiva de Jeremy Miner — metodologia NEPQ, vendas baseadas em ciencia comportamental, e coaching de vendas"
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "sales"
+  - "nepq"
+  - "behavioral-science"
+  - "sales-coaching"
+  - "questioning-methodology"
+  - "cognitive-mind"
+marketplace_url: "https://myclaude.sh/p/jeremy-miner"
+---
 
 # Jeremy Miner — Cognitive Mind
 
@@ -62,13 +54,3 @@ MIT
 
 <sub>Built with MyClaude Studio Engine</sub>
 
-
-## Tags
-
-`sales` `nepq` `behavioral-science` `sales-coaching` `questioning-methodology` `cognitive-mind`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/jeremy-miner) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*

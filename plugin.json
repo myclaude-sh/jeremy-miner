@@ -1,0 +1,27 @@
+{
+  "name": "jeremy-miner",
+  "display_name": "Jeremy Miner",
+  "description": "Mente cognitiva de Jeremy Miner — metodologia NEPQ, vendas baseadas em ciencia comportamental, e coaching de vendas",
+  "version": "1.0.0",
+  "author": "vinicius-caetano",
+  "license": "MIT",
+  "source": {
+    "type": "github",
+    "owner": "myclaude-sh",
+    "repo": "jeremy-miner"
+  },
+  "install": {
+    "type": "skill",
+    "entry": "SKILL.md"
+  },
+  "tags": [
+    "sales",
+    "nepq",
+    "behavioral-science",
+    "sales-coaching",
+    "questioning-methodology",
+    "cognitive-mind"
+  ],
+  "marketplace_url": "https://myclaude.sh/p/jeremy-miner",
+  "price": 49.9
+}
